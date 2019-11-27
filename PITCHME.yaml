@@ -1,0 +1,53 @@
+#
+# Theme Template
+# Doc: https://gitpitch.com/docs/themes/default
+#
+theme: template
+theme-background : [ "#000616" ]
+theme-headline   : [ "Open Sans", "white", "none" ]
+theme-byline     : [ "Open Sans", "white", "none" ]
+theme-text       : [ "Open Sans", "white", "none" ]
+theme-margins    : [ "0", "0" ]
+#
+# Highlight Setting
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
+highlight : hybrid
+
+code-line-numbers : true
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+#theme-override : assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/image/Q-logo-q.svg
+logo-position : top-right
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Kotlin/Everywhere - Qusion, Prague 2019"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+transition : none
+published : true
+
+pro-menus-hidden : true
+
+title : "Kotlin/Everywhere Prague Qusion"
